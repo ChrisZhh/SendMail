@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SendMail", "SendMail\", "{F8877E6F-7CD6-478D-BBE3-0F2CA7990CED}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59091"
+		Debug.AspNetCompiler.PhysicalPath = "SendMail\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59091\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59091"
+		Release.AspNetCompiler.PhysicalPath = "SendMail\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59091\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59091"
+		SlnRelativePath = "SendMail\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8877E6F-7CD6-478D-BBE3-0F2CA7990CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8877E6F-7CD6-478D-BBE3-0F2CA7990CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3057AEF3-DAA4-4255-9D01-84987B2F37C7}
+	EndGlobalSection
+EndGlobal
